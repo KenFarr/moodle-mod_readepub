@@ -21,6 +21,17 @@ function mod_readepub_get_icon() {
     return 'mod_readepub';
 }
 
+function readepub_supports($feature) {
+    switch($feature) {
+        case FEATURE_MOD_INTRO:
+            return true;
+        case FEATURE_SHOW_DESCRIPTION:
+            return true;
+        default:
+            return null;
+    }
+}
+
 /**
  * Update a readepub instance.
  *
