@@ -10,3 +10,5 @@ $string['readepub:addinstance'] = 'Add a new EPUB reading activity';
 $string['readepub:view'] = 'View EPUB activity';
 $string['invalidbook'] = 'Invalid book specified.';
 $string['noreadepubs'] = 'There are no EPUB reading activities in this course.';
+$string['launchingbook'] = 'Launching the book in a new tab...';
+$string['clickherelaunch'] = 'Click here if the book doesn\'t open automatically';
