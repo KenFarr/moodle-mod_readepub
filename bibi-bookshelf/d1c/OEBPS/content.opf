@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 20.3.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>D1 Why Doctrine for Ken</dc:title>
+		<dc:date>2025-06-14T08:19:31Z</dc:date>
+		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
+		<meta property="dcterms:modified">2025-06-14T08:19:31Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">portrait</meta>
+		<meta property="rendition:spread">none</meta>
+		<!--accessibility options-->
+	</metadata>
+	<manifest>
+		<item id="D1_Why_Doctrine_for_Ken-1" href="D1_Why_Doctrine_for_Ken-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-2" href="D1_Why_Doctrine_for_Ken-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-3" href="D1_Why_Doctrine_for_Ken-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-4" href="D1_Why_Doctrine_for_Ken-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-5" href="D1_Why_Doctrine_for_Ken-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-6" href="D1_Why_Doctrine_for_Ken-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-7" href="D1_Why_Doctrine_for_Ken-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-8" href="D1_Why_Doctrine_for_Ken-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-9" href="D1_Why_Doctrine_for_Ken-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-10" href="D1_Why_Doctrine_for_Ken-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-11" href="D1_Why_Doctrine_for_Ken-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-12" href="D1_Why_Doctrine_for_Ken-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-13" href="D1_Why_Doctrine_for_Ken-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-14" href="D1_Why_Doctrine_for_Ken-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-15" href="D1_Why_Doctrine_for_Ken-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-16" href="D1_Why_Doctrine_for_Ken-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-17" href="D1_Why_Doctrine_for_Ken-17.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-18" href="D1_Why_Doctrine_for_Ken-18.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-19" href="D1_Why_Doctrine_for_Ken-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-20" href="D1_Why_Doctrine_for_Ken-20.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-21" href="D1_Why_Doctrine_for_Ken-21.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-22" href="D1_Why_Doctrine_for_Ken-22.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-23" href="D1_Why_Doctrine_for_Ken-23.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-24" href="D1_Why_Doctrine_for_Ken-24.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-25" href="D1_Why_Doctrine_for_Ken-25.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-26" href="D1_Why_Doctrine_for_Ken-26.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-27" href="D1_Why_Doctrine_for_Ken-27.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-28" href="D1_Why_Doctrine_for_Ken-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-29" href="D1_Why_Doctrine_for_Ken-29.xhtml" media-type="application/xhtml+xml" />
+		<item id="D1_Why_Doctrine_for_Ken-30" href="D1_Why_Doctrine_for_Ken-30.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="Arial-BoldMT.ttf" href="font/Arial-BoldMT.ttf" media-type="application/x-font-ttf" />
+		<item id="Arial-ItalicMT.ttf" href="font/Arial-ItalicMT.ttf" media-type="application/x-font-ttf" />
+		<item id="ArialMT.ttf" href="font/ArialMT.ttf" media-type="application/x-font-ttf" />
+		<item id="LucidaGrande-Bold.ttc" href="font/LucidaGrande-Bold.ttc" media-type="application/x-font-ttf" />
+		<item id="LucidaGrande.ttc" href="font/LucidaGrande.ttc" media-type="application/x-font-ttf" />
+		<item id="LucidaSans-Demi.ttf" href="font/LucidaSans-Demi.ttf" media-type="application/x-font-ttf" />
+		<item id="LucidaSans-Italic.ttf" href="font/LucidaSans-Italic.ttf" media-type="application/x-font-ttf" />
+		<item id="LucidaSans.ttf" href="font/LucidaSans.ttf" media-type="application/x-font-ttf" />
+		<item id="Palatino-Italic.ttc" href="font/Palatino-Italic.ttc" media-type="application/x-font-ttf" />
+		<item id="ZapfDingbatsITC.ttf" href="font/ZapfDingbatsITC.ttf" media-type="application/x-font-ttf" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x13.png" href="image/13.png" media-type="image/png" />
+		<item id="x35.png" href="image/35.png" media-type="image/png" />
+		<item id="x39.png" href="image/39.png" media-type="image/png" />
+		<item id="x43.png" href="image/43.png" media-type="image/png" />
+		<item id="x51.png" href="image/51.png" media-type="image/png" />
+		<item id="x87.png" href="image/87.png" media-type="image/png" />
+		<item id="x91.png" href="image/91.png" media-type="image/png" />
+		<item id="x103.png" href="image/103.png" media-type="image/png" />
+		<item id="x110.png" href="image/110.png" media-type="image/png" />
+	</manifest>
+	<spine>
+		<itemref idref="D1_Why_Doctrine_for_Ken-1" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-2" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-3" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-4" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-5" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-6" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-7" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-8" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-9" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-10" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-11" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-12" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-13" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-14" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-15" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-16" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-17" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-18" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-19" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-20" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-21" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-22" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-23" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-24" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-25" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-26" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-27" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-28" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-29" />
+		<itemref idref="D1_Why_Doctrine_for_Ken-30" />
+	</spine>
+</package>
