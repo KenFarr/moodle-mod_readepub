@@ -12,3 +12,4 @@ $string['invalidbook'] = 'Invalid book specified.';
 $string['noreadepubs'] = 'There are no EPUB reading activities in this course.';
 $string['launchingbook'] = 'Launching the book in a new tab...';
 $string['clickherelaunch'] = 'Click here if the book doesn\'t open automatically';
+$string['name'] = 'Name';
