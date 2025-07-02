@@ -17,6 +17,9 @@ function readepub_add_instance($data, $mform) {
 
     return $DB->insert_record('readepub', $data);
 }
+function mod_readepub_get_icon() {
+    return 'mod_readepub';
+}
 
 /**
  * Update a readepub instance.
