@@ -17,20 +17,6 @@ function readepub_add_instance($data, $mform) {
 
     return $DB->insert_record('readepub', $data);
 }
-function mod_readepub_get_icon() {
-    return 'mod_readepub';
-}
-
-function readepub_supports($feature) {
-    switch($feature) {
-        case FEATURE_MOD_INTRO:
-            return true;
-        case FEATURE_SHOW_DESCRIPTION:
-            return true;
-        default:
-            return null;
-    }
-}
 
 /**
  * Update a readepub instance.
@@ -72,20 +58,51 @@ function readepub_get_participants($readepubid) {
 }
 
 /**
- * Returns all instances of this module in the given course.
+ * Return information for course module display.
  *
- * @param int $courseid
- * @return array of instances
+ * This enables the description to be shown on the course page when "Display description" is checked.
+ *
+ * @param cm_info $coursemodule
+ * @return cached_cm_info|null
  */
 function readepub_get_coursemodule_info($coursemodule) {
     global $DB;
 
-    $info = null;
+    if (!$readepub = $DB->get_record('readepub', ['id' => $coursemodule->instance], '*')) {
+        return null;
+    }
 
-    if ($readepub = $DB->get_record('readepub', ['id' => $coursemodule->instance], '*')) {
-        $info = new cached_cm_info();
-        $info->name = $readepub->name;
+    $info = new cached_cm_info();
+    $info->name = $readepub->name;
+
+    // This enables the description to be shown on the course page
+    if (!empty($readepub->intro)) {
+        $info->content = format_module_intro('readepub', $readepub, $coursemodule->id, false);
     }
 
     return $info;
+}
+
+/**
+ * Declare supported features.
+ *
+ * @param string $feature FEATURE_xx constant
+ * @return mixed True if supported, null otherwise
+ */
+function readepub_supports($feature) {
+    switch($feature) {
+        case FEATURE_MOD_INTRO:
+            return true;
+        case FEATURE_SHOW_DESCRIPTION:
+            return true;
+        default:
+            return null;
+    }
+}
+
+/**
+ * Get icon for the activity (SVG).
+ */
+function mod_readepub_get_icon() {
+    return 'mod_readepub';
 }
