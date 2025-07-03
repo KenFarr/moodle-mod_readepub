@@ -11,7 +11,10 @@ require_course_login($cm->course, true, $cm);
 $readepub = $DB->get_record('readepub', ['id' => $cm->instance], '*', MUST_EXIST);
 
 // Build the URL to launch
-$bookurl = new moodle_url('/mod/readepub/bibi/index.php', ['book' => $readepub->bookname]);
+$bookurl = new moodle_url('/mod/readepub/bibi/index.php', [
+    'book' => $readepub->bookname,
+    'cmid' => $cm->id
+]);
 
 $PAGE->set_url('/mod/readepub/view.php', ['id' => $cm->id]);
 $PAGE->set_title($readepub->name);
