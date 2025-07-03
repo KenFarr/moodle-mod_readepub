@@ -1,6 +1,10 @@
 <?php
 require_once(__DIR__ . '/../../../config.php');
-require_login();
+
+// New: Check course enrolment using cmid
+$cmid = required_param('cmid', PARAM_INT);
+$cm = get_coursemodule_from_id('readepub', $cmid, 0, false, MUST_EXIST);
+require_login($cm->course, true, $cm); // This ensures user is logged in and enrolled
 
 // Decide which preset to send
 $is_mobile = preg_match('/Mobi|Android|iPhone|iPad/i', $_SERVER['HTTP_USER_AGENT']);
