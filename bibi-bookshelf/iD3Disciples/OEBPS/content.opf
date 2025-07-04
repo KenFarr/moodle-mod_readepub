@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" xml:lang="en-GB" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<meta name="generator" content="Adobe InDesign 20.4" />
+		<meta name="generator" content="Adobe InDesign 20.4.1" />
 		<meta name="cover" content="x1.png" />
 		<meta property="ibooks:specified-fonts">true</meta>
 		<dc:title>iD3 Disciples for Ken</dc:title>
-		<dc:date>2025-06-23T08:38:50Z</dc:date>
+		<dc:date>2025-07-03T20:05:15Z</dc:date>
 		<dc:language>ar-SA</dc:language>
 		<dc:language>en-GB</dc:language>
 		<dc:language>en-US</dc:language>
-		<meta property="dcterms:modified">2025-06-23T08:38:50Z</meta>
+		<meta property="dcterms:modified">2025-07-03T20:05:15Z</meta>
 		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
 		<!--fixed-layout options-->
 		<meta property="rendition:layout">pre-paginated</meta>
-		<meta property="rendition:orientation">landscape</meta>
-		<meta property="rendition:spread">both</meta>
+		<meta property="rendition:orientation">portrait</meta>
+		<meta property="rendition:spread">none</meta>
 		<!--accessibility options-->
 	</metadata>
 	<manifest>
-		<item id="iD3_Disciples_for_printing-1" href="iD3_Disciples_for_printing-1.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-2" href="iD3_Disciples_for_printing-2.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-3" href="iD3_Disciples_for_printing-3.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-4" href="iD3_Disciples_for_printing-4.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-5" href="iD3_Disciples_for_printing-5.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-6" href="iD3_Disciples_for_printing-6.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-7" href="iD3_Disciples_for_printing-7.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-8" href="iD3_Disciples_for_printing-8.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-9" href="iD3_Disciples_for_printing-9.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-10" href="iD3_Disciples_for_printing-10.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-11" href="iD3_Disciples_for_printing-11.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-12" href="iD3_Disciples_for_printing-12.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-13" href="iD3_Disciples_for_printing-13.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-14" href="iD3_Disciples_for_printing-14.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-15" href="iD3_Disciples_for_printing-15.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-16" href="iD3_Disciples_for_printing-16.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-17" href="iD3_Disciples_for_printing-17.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-18" href="iD3_Disciples_for_printing-18.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-19" href="iD3_Disciples_for_printing-19.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-20" href="iD3_Disciples_for_printing-20.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-21" href="iD3_Disciples_for_printing-21.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-22" href="iD3_Disciples_for_printing-22.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-23" href="iD3_Disciples_for_printing-23.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-24" href="iD3_Disciples_for_printing-24.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-25" href="iD3_Disciples_for_printing-25.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-26" href="iD3_Disciples_for_printing-26.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-27" href="iD3_Disciples_for_printing-27.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-28" href="iD3_Disciples_for_printing-28.xhtml" media-type="application/xhtml+xml" />
-		<item id="iD3_Disciples_for_printing-29" href="iD3_Disciples_for_printing-29.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-1" href="iD3_Disciples_for_Ken-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-2" href="iD3_Disciples_for_Ken-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-3" href="iD3_Disciples_for_Ken-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-4" href="iD3_Disciples_for_Ken-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-5" href="iD3_Disciples_for_Ken-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-6" href="iD3_Disciples_for_Ken-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-7" href="iD3_Disciples_for_Ken-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-8" href="iD3_Disciples_for_Ken-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-9" href="iD3_Disciples_for_Ken-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-10" href="iD3_Disciples_for_Ken-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-11" href="iD3_Disciples_for_Ken-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-12" href="iD3_Disciples_for_Ken-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-13" href="iD3_Disciples_for_Ken-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-14" href="iD3_Disciples_for_Ken-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-15" href="iD3_Disciples_for_Ken-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-16" href="iD3_Disciples_for_Ken-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-17" href="iD3_Disciples_for_Ken-17.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-18" href="iD3_Disciples_for_Ken-18.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-19" href="iD3_Disciples_for_Ken-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-20" href="iD3_Disciples_for_Ken-20.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-21" href="iD3_Disciples_for_Ken-21.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-22" href="iD3_Disciples_for_Ken-22.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-23" href="iD3_Disciples_for_Ken-23.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-24" href="iD3_Disciples_for_Ken-24.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-25" href="iD3_Disciples_for_Ken-25.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-26" href="iD3_Disciples_for_Ken-26.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-27" href="iD3_Disciples_for_Ken-27.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-28" href="iD3_Disciples_for_Ken-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="iD3_Disciples_for_Ken-29" href="iD3_Disciples_for_Ken-29.xhtml" media-type="application/xhtml+xml" />
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
 		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
 		<item id="Arial-BoldMT.ttf" href="font/Arial-BoldMT.ttf" media-type="application/x-font-ttf" />
@@ -93,34 +93,34 @@
 		<item id="x121.png" href="image/121.png" media-type="image/png" />
 	</manifest>
 	<spine>
-		<itemref idref="iD3_Disciples_for_printing-1" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-2" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-3" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-4" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-5" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-6" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-7" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-8" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-9" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-10" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-11" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-12" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-13" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-14" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-15" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-16" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-17" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-18" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-19" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-20" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-21" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-22" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-23" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-24" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-25" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-26" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-27" properties="page-spread-right" />
-		<itemref idref="iD3_Disciples_for_printing-28" properties="page-spread-left" />
-		<itemref idref="iD3_Disciples_for_printing-29" properties="page-spread-right" />
+		<itemref idref="iD3_Disciples_for_Ken-1" />
+		<itemref idref="iD3_Disciples_for_Ken-2" />
+		<itemref idref="iD3_Disciples_for_Ken-3" />
+		<itemref idref="iD3_Disciples_for_Ken-4" />
+		<itemref idref="iD3_Disciples_for_Ken-5" />
+		<itemref idref="iD3_Disciples_for_Ken-6" />
+		<itemref idref="iD3_Disciples_for_Ken-7" />
+		<itemref idref="iD3_Disciples_for_Ken-8" />
+		<itemref idref="iD3_Disciples_for_Ken-9" />
+		<itemref idref="iD3_Disciples_for_Ken-10" />
+		<itemref idref="iD3_Disciples_for_Ken-11" />
+		<itemref idref="iD3_Disciples_for_Ken-12" />
+		<itemref idref="iD3_Disciples_for_Ken-13" />
+		<itemref idref="iD3_Disciples_for_Ken-14" />
+		<itemref idref="iD3_Disciples_for_Ken-15" />
+		<itemref idref="iD3_Disciples_for_Ken-16" />
+		<itemref idref="iD3_Disciples_for_Ken-17" />
+		<itemref idref="iD3_Disciples_for_Ken-18" />
+		<itemref idref="iD3_Disciples_for_Ken-19" />
+		<itemref idref="iD3_Disciples_for_Ken-20" />
+		<itemref idref="iD3_Disciples_for_Ken-21" />
+		<itemref idref="iD3_Disciples_for_Ken-22" />
+		<itemref idref="iD3_Disciples_for_Ken-23" />
+		<itemref idref="iD3_Disciples_for_Ken-24" />
+		<itemref idref="iD3_Disciples_for_Ken-25" />
+		<itemref idref="iD3_Disciples_for_Ken-26" />
+		<itemref idref="iD3_Disciples_for_Ken-27" />
+		<itemref idref="iD3_Disciples_for_Ken-28" />
+		<itemref idref="iD3_Disciples_for_Ken-29" />
 	</spine>
 </package>
